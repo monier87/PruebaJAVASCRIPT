@@ -10,3 +10,5 @@ let PC = {
     Espacio: "1TB",
 }
 document.write(Frutas[5])
+
+//Bucles
